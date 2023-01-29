@@ -1,6 +1,7 @@
 % MATLAB_Understanding_Analog_Communications_Amplitude_Modulation
 
 
+
 % Bu projedeki temel amaç sisteme yüklenilen 10sn lik bir ses dosyasnı analiz etmektir. Bu analiz alanları ses sinyalinin time ve frequrncy domainlerini kapsar. Amaç oluşturulan ses sinyalini module, demodule, SNR levellerine göre time ve frquency domainlerine göre anaiz etmektir. Bu iki analiz şeklini kıyaslayacak olursak, zaman alanında ölçüm, daha alt seviyede, daha ayrıntılı bir ölçümdür. Sistemde belirli zaman aralıkları ile ölçüm yaparız ve ölçüm sonuçlarını da grafik veya tablo olarak ortaya koyarız. Frekans alanında ölçüm yapmak, daha üst seviyeli, daha genel bir ölçümdür. Sisteme değişik frekanslara sahip sinyal girdisi verip bu sinyalin çıkıştaki genliğinin ve fazının nasıl değiştiğini inceleriz. Burada da gene ölçüm sonuçları bir grafik veya tablo olarak ortaya konur. Burada alt seviye, üst seviye derken, birisi diğerine göre daha aşağılık, işe yaramaz anlamında almamak lazım. Bir sistem hakkında en ayrıntılı ve bütünleşik bilgiyi zaman alanında yapılan analiz verir. Ama özellikle yüksek frekanslarda bu hem çok zordur, hem de o uygulamada bize çok da gerekli olmayan ilave bir sürü bilgi üretir.
 
 
